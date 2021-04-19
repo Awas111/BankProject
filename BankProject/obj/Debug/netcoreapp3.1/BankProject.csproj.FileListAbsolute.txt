@@ -1,0 +1,13 @@
+C:\Users\ayesh\source\repos\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.exe
+C:\Users\ayesh\source\repos\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.deps.json
+C:\Users\ayesh\source\repos\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.runtimeconfig.json
+C:\Users\ayesh\source\repos\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.runtimeconfig.dev.json
+C:\Users\ayesh\source\repos\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.dll
+C:\Users\ayesh\source\repos\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.pdb
+C:\Users\ayesh\source\repos\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.csprojAssemblyReference.cache
+C:\Users\ayesh\source\repos\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.AssemblyInfoInputs.cache
+C:\Users\ayesh\source\repos\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.AssemblyInfo.cs
+C:\Users\ayesh\source\repos\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\source\repos\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.dll
+C:\Users\ayesh\source\repos\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.pdb
+C:\Users\ayesh\source\repos\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.genruntimeconfig.cache
